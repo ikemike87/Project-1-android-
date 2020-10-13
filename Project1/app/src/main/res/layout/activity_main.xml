@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+
+    <ImageView
+        android:id="@+id/building_image"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".2"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/buildings"
+        android:contentDescription="@string/content_description"/>
+
+    <Button
+        android:id="@+id/building_button"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".05"
+        android:backgroundTint="#236192"
+        android:text="@string/building_button"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF" />
+
+    <ImageView
+        android:id="@+id/classes_image"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".2"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/classes"
+        android:contentDescription="@string/content_description"/>
+
+    <Button
+        android:id="@+id/classes_button"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".05"
+        android:backgroundTint="#236192"
+        android:text="@string/classes_button"
+        android:textColor="#FFFFFF" />
+
+    <ImageView
+        android:id="@+id/faculty_image"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".2"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/faculty"
+        android:contentDescription="@string/content_description"/>
+
+    <Button
+        android:id="@+id/faculty_button"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".05"
+        android:backgroundTint="#236192"
+        android:text="@string/faculty_button"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/score_button"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".05"
+        android:backgroundTint="#236192"
+        android:text="@string/score_button"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>

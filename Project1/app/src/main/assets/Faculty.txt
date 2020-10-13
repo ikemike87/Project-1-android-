@@ -1,0 +1,50 @@
+.Who teaches CSI-319?
+*David Kopec
+Frank Canovatchel
+Brain Hall
+Dean Lawson
+.Who teaches Android Development?
+Frank Canovatchel
+Brain Hall
+Dean Lawson
+*David Kopec
+.Who teaches CSI-318?
+*David Kopec
+Frank Canovatchel
+Brain Hall
+Dean Lawson
+.Who teaches iOS Development?
+Frank Canovatchel
+Brain Hall
+Dean Lawson
+*David Kopec
+.Who teaches CSI-281?
+*David Kopec
+Frank Canovatchel
+Brain Hall
+Dean Lawson
+.Who teaches Data Structures & Algorithms?
+Frank Canovatchel
+Brain Hall
+Dean Lawson
+*David Kopec
+.Who teaches CSI-120?
+*David Kopec
+Frank Canovatchel
+Brain Hall
+Dean Lawson
+.Who teaches Intro to Mobile and Web Dev?
+Frank Canovatchel
+Brain Hall
+Dean Lawson
+*David Kopec
+.What professor went to Dartmouth College?
+Frank Canovatchel
+Brain Hall
+Dean Lawson
+*David Kopec
+.What professor wrote a book about Dart?
+Frank Canovatchel
+Brain Hall
+Dean Lawson
+*David Kopec

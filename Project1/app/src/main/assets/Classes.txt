@@ -1,0 +1,51 @@
+.What Class is The Joy of Coumputing?
+*CSI-100
+CSI-140
+CSI-120
+CSI-400
+.What Class is CSI-120?
+The Joy of Computing
+Introduction to Programing
+*Intro to Mobile & Web Dev
+Java Programing
+.What Class is Intro to Mobile & Web Dev?
+CSI-450
+CSI-150
+CSI-260
+*CSI-120
+.What Class is CSI-240?
+Advanced Java
+*Advanced Programing
+Advanced Python
+Network Programing
+.What Class is Network Programing?
+*CSI-275
+CSI-500
+CSI-10000000
+CSI-1
+.What Class is CSI-319
+iOS Development
+*Android Development
+Global IT & Ethics
+Computer Architecture
+.What Class is Innov III: Emerging Lang.
+CSI-153
+CSI-456
+CSI-100
+*CSI-380
+.What Class is CSI-400?
+*Human-Computer Interaction
+Programming for the IoT
+Topics in Computer Science
+iOS Development
+.What Class is iOS Development?
+CSI-319
+CSI-320
+*CSI-318
+CSI-400
+.What Class is CSI-318?
+Android Development
+Topics in Computer Science
+*iOS Development
+Global It & Ethics
+

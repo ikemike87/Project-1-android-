@@ -1,0 +1,53 @@
+.What building is a residential building?
+*Rowell Hall
+Joyce Learning Center
+Miller Information Commons
+Skiff Hall
+.What building is a academic building?
+North House
+Sanders Hall
+Boardman Hall
+*Joyce Learning Center
+.Where can you get food?
+Adirondack Hall
+Butler Hall
+*IDX
+Rowell Hall
+.According to the campus map, what building is marked 18?
+Wick Hall
+Freeman Hall
+Aiken Hall
+*Foster Hall
+.According to the campus map, what building is marked A?
+Hill Hall
+*North House
+Valcour Hall
+Bankus Hall
+.According to the campus map, what building is marked Z?
+Carriage House
+West Hall
+*194 Saint Paul Street
+Aiken Hall
+.According to the campus, what is 194 Saint Paul Street marked as?
+*Z
+X
+1
+4
+.According to the campus, what is Joyce Learning Center marked as?
+13
+16
+*21
+H
+.According to the campus, what is Lyman Hall marked as?
+F
+*P
+6
+12
+.What building is Miller Information Commons
+Wick_Hall
+*Miller_Information_Commons
+Aiken_Hall
+Rowell_Hall
+
+
+

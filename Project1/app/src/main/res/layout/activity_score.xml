@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/final_score_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#236192"
+        android:padding="100dp"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+    <EditText
+        android:id="@+id/user_name_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_name"
+        android:inputType="text"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/enter_score_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#236192"
+        android:text="@string/enter_score"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/score_title_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#236192"
+        android:text="@string/score_button"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/building_category_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#236192"
+        android:text="@string/building_button"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/building_scores_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight=".2" />
+
+    <TextView
+        android:id="@+id/classes_category_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#236192"
+        android:text="@string/classes_button"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/classes_scores_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight=".2" />
+
+    <TextView
+        android:id="@+id/faculty_category_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#236192"
+        android:text="@string/faculty_button"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/faculty_scores_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight=".2" />
+
+    <Button
+        android:id="@+id/score_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#236192"
+        android:text="@string/score_button"
+        android:textColor="#FFFFFF"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/home_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#236192"
+        android:text="@string/home_button"
+        android:textColor="#FFFFFF"
+        android:visibility="visible" />
+
+</LinearLayout>
